@@ -74,8 +74,3 @@ done
 # Solo logre cambiar de formato la captura de pantalla.
 # Imagino que el problema viene por el hecho de usar un subsistema de linux en windows.
 # Justamente de eso trataba el video (mini clip de terror).
-
-
-# CLEAN
-# rm Rodrigo_en_el_pais_de_las_maravillas.txt  superliga_ord.in  weather_cordoba_ord.in  atpplayers_ord.in &&
-#     rm -r blindspot
